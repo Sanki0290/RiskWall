@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g12UIAxehJI=",
+  "success": true,
+  "projectFilePath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\masstransit.abstractions\\8.1.3\\masstransit.abstractions.8.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
