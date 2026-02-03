@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiskWall.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77d79ea9ef963f05eb8a843426bce264b6a52924")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiskWall.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiskWall.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

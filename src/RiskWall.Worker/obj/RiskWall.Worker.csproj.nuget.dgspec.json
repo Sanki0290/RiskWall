@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sanket\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj": {}
+    "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj": {}
   },
   "projects": {
-    "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
+    "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj",
+        "projectUniqueName": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj",
         "projectName": "RiskWall.Core",
-        "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj",
+        "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\obj\\",
+        "outputPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -350,14 +350,14 @@
         }
       }
     },
-    "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj": {
+    "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj",
         "projectName": "RiskWall.Infrastructure",
-        "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj",
+        "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\obj\\",
+        "outputPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -379,8 +379,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
-                "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj"
+              "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
+                "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj"
               }
             }
           }
@@ -718,14 +718,14 @@
         }
       }
     },
-    "C:\\Sanket\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj": {
+    "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sanket\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj",
+        "projectUniqueName": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj",
         "projectName": "RiskWall.Worker",
-        "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj",
+        "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Worker\\RiskWall.Worker.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Worker\\obj\\",
+        "outputPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Worker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -747,11 +747,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
-                "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj"
+              "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj": {
+                "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Core\\RiskWall.Core.csproj"
               },
-              "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj": {
-                "projectPath": "C:\\Sanket\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj"
+              "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj": {
+                "projectPath": "C:\\Sanket\\RiskWall_Revamp\\RiskWall\\src\\RiskWall.Infrastructure\\RiskWall.Infrastructure.csproj"
               }
             }
           }
